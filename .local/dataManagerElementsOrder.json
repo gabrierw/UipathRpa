@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WebScraping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SortDataTable&Sequence_1",
+        "FilterDataTable&Sequence_1",
+        "ObjVar&Sequence_1",
+        "DescrpVar&Sequence_1",
+        "MtsVar&Sequence_1",
+        "PrecioVar&Sequence_1",
+        "BuildDataTable&Sequence_1",
+        "OutputDb&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "Ubicacion&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
